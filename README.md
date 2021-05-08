@@ -1,1 +1,2 @@
-"# PyGUI-PyQt-QtDesigner" 
+# PyGUI-PyQt-QtDesigner 
+just run main.py
